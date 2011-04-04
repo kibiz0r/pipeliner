@@ -1,0 +1,24 @@
+app/pipelines/buy_a_car_pipeline.rb	app/pipelines/buy_a_car_pipeline.rb	//;"	f
+app/pipelines/make_cinnamon_rolls_pipeline.rb	app/pipelines/make_cinnamon_rolls_pipeline.rb	//;"	f
+app/pipelines/steps/apply_for_loan_step.rb	app/pipelines/steps/apply_for_loan_step.rb	//;"	f
+app/pipelines/steps/bake_cinnamon_rolls_step.rb	app/pipelines/steps/bake_cinnamon_rolls_step.rb	//;"	f
+app/pipelines/steps/buy_cinnamon_roll_tubes_step.rb	app/pipelines/steps/buy_cinnamon_roll_tubes_step.rb	//;"	f
+app/pipelines/steps/check_bank_balance_step.rb	app/pipelines/steps/check_bank_balance_step.rb	//;"	f
+app/pipelines/steps/eat_cinnamon_rolls_step.rb	app/pipelines/steps/eat_cinnamon_rolls_step.rb	//;"	f
+app/pipelines/steps/filter_by_color_step.rb	app/pipelines/steps/filter_by_color_step.rb	//;"	f
+app/pipelines/steps/filter_by_price_step.rb	app/pipelines/steps/filter_by_price_step.rb	//;"	f
+app/pipelines/steps/find_cars_step.rb	app/pipelines/steps/find_cars_step.rb	//;"	f
+app/pipelines/steps/frost_cinnamon_rolls_step.rb	app/pipelines/steps/frost_cinnamon_rolls_step.rb	//;"	f
+app/pipelines/steps/grab_cinnamon_rolls_with_the_most_frosting_step.rb	app/pipelines/steps/grab_cinnamon_rolls_with_the_most_frosting_step.rb	//;"	f
+app/pipelines/steps/pick_loan_step.rb	app/pipelines/steps/pick_loan_step.rb	//;"	f
+app/pipelines/steps/preheat_oven_step.rb	app/pipelines/steps/preheat_oven_step.rb	//;"	f
+app/pipelines/steps/sign_paperwork_step.rb	app/pipelines/steps/sign_paperwork_step.rb	//;"	f
+app/pipelines/steps/unpack_cinnamon_roll_tubes.rb	app/pipelines/steps/unpack_cinnamon_roll_tubes.rb	//;"	f
+input	./lib/pipeliner/pipeline.rb	/^  def self.input(name)$/
+lib/pipeliner.rb	lib/pipeliner.rb	//;"	f
+lib/pipeliner/string_ext.rb	lib/pipeliner/string_ext.rb	//;"	f
+new	./lib/pipeliner/pipeline/step.rb	/^    Object.const_set class_name, Class.new(Pipelin/
+process	./lib/pipeliner/pipeline.rb	/^  def process(args)$/
+produce	./lib/pipeliner/pipeline/step.rb	/^  def self.produce(name)$/
+spec/lib/pipeline_spec.rb	spec/lib/pipeline_spec.rb	//;"	f
+spec/spec_helper.rb	spec/spec_helper.rb	//;"	f
